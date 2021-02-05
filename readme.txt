@@ -15,3 +15,13 @@ Your branch is ahead of 'origin/main' by 1 commit.
 nothing to commit, working tree clean
 error: src refspec web-branch does not match any
 error: failed to push some refs to 'https://github.com/lgmoltrasio/web.git'
+
+
+
+F:\Lu\Repositorios\web>git branch
+* main
+
+F:\Lu\Repositorios\web>git checkout -b "web-branch"
+Switched to a new branch 'web-branch'
+
+F:\Lu\Repositorios\web>gitBackWin.cmd
